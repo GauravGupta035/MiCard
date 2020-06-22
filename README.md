@@ -1,0 +1,1 @@
+MiCard made during the course 'The Complete 2020 Flutter Development Bootcamp With Dart' - Section 6.
